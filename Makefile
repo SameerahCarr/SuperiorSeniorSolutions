@@ -2,5 +2,5 @@
 
 all:
 	git add .
-	git commit -am "Changes"
+	git commit -m "Changes"
 	git push origin master
