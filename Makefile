@@ -1,6 +1,9 @@
 .PHONY: all
 
-all:
+run:
 	git add .
-	git commit -m "Changes"
+	git commit -m $(ARG)
+	git push origin master
+
+commited:
 	git push origin master
