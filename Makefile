@@ -7,3 +7,7 @@ all:
 
 push:
 	git push origin master
+
+keygen:
+	ssh-keygen -t rsa -b 4096 -C "princessquared@gmail.com"
+	cat /home/boene/.ssh/id_rsa.pub
