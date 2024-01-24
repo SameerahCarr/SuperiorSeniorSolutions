@@ -57,9 +57,8 @@ article h1:after{
 }
 article img{
     border: 2px solid #fff;
-    border-radius: 50%;
     margin-top: 60px;
-
+    max-width: 500px;
 }
 blockquote{
     font-family: sans-serif;
