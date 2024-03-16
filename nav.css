@@ -61,6 +61,7 @@ header
   justify-content: center;
   align-items: center;
   opacity: 0;
+
 }
 .menu.active {
 	opacity: 1;
@@ -68,6 +69,7 @@ header
 .menu ul
 {
   position: relative;
+  z-index: 10000;
 }
 .menu ul li
 {

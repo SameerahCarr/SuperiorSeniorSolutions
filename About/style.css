@@ -79,7 +79,7 @@ article h2 {
     font-size: 25px;
     text-decoration: underline;
     text-transform: lowercase;
-    color: red;
+    color: black;
 }
 article h5:after{
     content: "";

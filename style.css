@@ -55,7 +55,7 @@ header .logo
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #111;
+  background: #63ae51;
   transition: 0.5s;
   z-index: 2;
 }
